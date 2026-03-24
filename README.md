@@ -29,7 +29,7 @@ Demand analysis based on BHK configuration
 Sales contribution by channel (Broker, Direct, Online)
 Identification of top-performing real estate segments
 
-🛠️ Tools & Technologies
+Tools & Technologies
 Microsoft Power BI Desktop
 DAX (Data Analysis Expressions)
 Data Modeling & Visualization
